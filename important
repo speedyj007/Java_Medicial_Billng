@@ -1,0 +1,24 @@
+The Excelsior Installer setup "Design-setup.exe" has been successfully
+created in the directory 
+
+	C:\Users\Prabeer\Desktop\Exe
+
+The executable can be deployed to target systems now.
+ 
+INSTALLATION PROCEDURE
+ 
+The user runs the installer and follows on-line prompts.
+ 
+AUTOMATIC BUILD
+ 
+To build the installer executable without invoking the JetPackII wizard,
+use the following command:
+
+	xpack "C:\Users\Prabeer\Desktop\Exe\Design.jpn"
+
+The executable will be created in the directory
+
+	"C:\Users\Prabeer\Desktop\Exe".
+
+Advanced build options are described in the Users Guide,
+chapter "Deployment automation", section "Deployment utilities".
